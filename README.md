@@ -21,14 +21,21 @@
 
 <h1>I'm Anirudh Jakhotia</h1>
 
-<div> I am a final year undergrad, pursuing B-Tech in CSE from IIIT Sri City. I love competitive programming and am also very interested in AI/ML. I am very interested in learning new technological areas and exploring many fields. I am seeking a challenging career with a progressive organization that provides an opportunity to enhance my technical skills.</div>
+<div> I'm a Computer Science graduate from IIIT Sri City (Class of 2023) with a strong passion for backend development, GraphQL, and AI-powered tools. I started my journey with competitive programming and gradually transitioned into building real-world systems. I'm always curious about new technologies and love exploring emerging tools across different domains. I aim to work in an environment that challenges me, sharpens my skills, and gives me the space to keep learning and building meaningful tech.
+</div>
 <br>
 
-- 📚 Competitive Coder
-- ⚛️ I ❤️ Full Stack Development
-- ⚛️ I ❤️ ML
-- 👷🏽‍♂️Looking for Opportunities
-- ⚡ Fun fact: ... I love to solve problems. **I can do leetcode problems all day.**
+🚀 Software Engineer | ⚙️ Backend Developer | 🔍 AI Explorer
+
+🎓 B.Tech CSE, IIIT Sri City – Class of 2023
+🧠 Passionate about building scalable systems, diving into GraphQL, and exploring the world of AI tools
+🧩 Lifelong learner, curious problem solver, and always up for a tech deep dive
+
+💻 Competitive Programmer turned Builder
+🛰️ I love working with APIs, automation, and modern web backends
+📦 Currently experimenting with AI dev tools and open-source magic
+
+⚡ Fun fact: I still enjoy solving Leetcode problems for fun. Brainteasers keep me sane.
 
 ### I'm Currently
 
